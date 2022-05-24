@@ -58,10 +58,9 @@ _**Kĩ thuật khác**_
 
 
 ## _Cài đặt_
-- Clone code trên github.
-- Cop file dll vào thư mục shotting.
-- Cop file exe trong bùn/debug vào thư mục shotting.
-- Mở file exe để chơi.
+- download zip trên github.
+- giải nén file zip.
+- Mở file shooting.exe để chơi.
 ## _Nguồn tham khảo_
 - Về thư viện SFML: https://www.sfml-dev.org
 - Về cách triển khai các kĩ thuật:
