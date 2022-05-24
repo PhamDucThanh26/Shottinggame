@@ -24,10 +24,7 @@ Dự án cuối kì lập trình nâng cao
 - Gét gâu.
 
 
-## _Video Gameplay_
 
-### Link Youtube: 
-https://www.youtube.com/watch?v=IFX58u-Qt_U
 
 
 ## _Một số hình ảnh trong game_
