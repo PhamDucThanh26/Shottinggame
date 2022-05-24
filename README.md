@@ -76,7 +76,7 @@ _**Kĩ thuật khác**_
 ## _Kết luận_
 - Sau khi hoàn thành dự án game cuối kì này, em đã cải thiện cho mình rất nhiều kĩ năng trong tư duy code, lên ý tưởng, các kĩ năng photoshop, tạo animation...
 - Điều tâm đắc:
-    - E đã tự đọc và tìm hiểu để làm dự án game đầu tiên này . Tuy e nhận thấy nó còn khá là đơn giản nhưng nó sẽ là 1 kỉ niệm rất đáng nhớ đối với em .
+    - Em đã tự đọc và tìm hiểu để làm dự án game đầu tiên này . Tuy em nhận thấy nó còn khá là đơn giản nhưng nó sẽ là 1 kỉ niệm rất đáng nhớ đối với em .
     - Có thêm nhiều kinh nghiệm trong phát triển dự án tương lai .
 - Định hướng tương lai:
     - Cải thiện giao diện .
