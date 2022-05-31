@@ -9,10 +9,15 @@
 #include "Menu.h"
 #include "collision.h"
 #include "game.h"
+#include <SFML/Audio.hpp>
 
 using namespace std;
 
 int main() {
+	//MUSIC
+    sf::Music music;
+    if (!music.openFromFile("Res/Viet-Nam-Oi-Minh-Beta.wav"));
+    music.play();
 	//WINDOW
 	sf::RenderWindow game(sf::VideoMode(800, 600), "Game");
     Menu menu(game.getSize().x, game.getSize().y);
